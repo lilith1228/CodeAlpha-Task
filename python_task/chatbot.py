@@ -7,7 +7,7 @@ input1 = input().lower()
 if input1== s1:
     print("hii")
 elif input1 == s2:
-    print("I'm fine, thanks!")
+    print("I'm fine, thank!")
 elif input1 == s3:
     print("goodbye")
 else:
